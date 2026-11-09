@@ -1,3 +1,7 @@
+## Live Vercel deployment
+
+[Open the deployed project](https://used-car-price-analysis.vercel.app)
+
 # Practical Application 2: What Drives the Price of a Car?
 
 **Notebook:** [notebooks/prompt_II.ipynb](notebooks/prompt_II.ipynb)
